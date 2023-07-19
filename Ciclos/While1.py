@@ -15,7 +15,5 @@ def max():
             print("es un numero negativo")
         if n > maximo:
             maximo = n
-    print(num)
-    print("El máximo número introducido es:", maximo)
-    return max
+    
 max()
